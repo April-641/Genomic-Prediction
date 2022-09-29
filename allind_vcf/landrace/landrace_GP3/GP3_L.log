@@ -1,0 +1,19 @@
+PLINK v1.90b1g 64-bit (10 Jun 2014)
+5 arguments: --out GP3_L --recode --vcf GP3_L.vcf
+Hostname: fat01
+Working directory: /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/landrace/landrace_GP3
+Start time: Mon Nov 22 21:59:18 2021
+
+Random number seed: 1637589558
+514447 MB RAM detected; reserving 257223 MB for main workspace.
+--vcf: GP3_L-temporary.bed + GP3_L-temporary.bim + GP3_L-temporary.fam written.
+39755 variants loaded from .bim file.
+1000 people (0 males, 0 females, 1000 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to GP3_L.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+39755 variants and 1000 people pass filters and QC.
+Note: No phenotypes present.
+--recode to GP3_L.ped + GP3_L.map ... done.
+
+End time: Mon Nov 22 21:59:19 2021

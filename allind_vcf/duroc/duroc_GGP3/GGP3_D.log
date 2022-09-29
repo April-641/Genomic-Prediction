@@ -1,0 +1,20 @@
+PLINK v1.90b1g 64-bit (10 Jun 2014)
+5 arguments: --out GGP3_D --recode --vcf GGP3_D.vcf
+Hostname: fat01
+Working directory: /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/duroc/duroc_GGP3
+Start time: Mon Nov 22 21:34:23 2021
+
+Random number seed: 1637588063
+514447 MB RAM detected; reserving 257223 MB for main workspace.
+--vcf: GGP3_D-temporary.bed + GGP3_D-temporary.bim + GGP3_D-temporary.fam
+written.
+39755 variants loaded from .bim file.
+60 people (0 males, 0 females, 60 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to GGP3_D.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+39755 variants and 60 people pass filters and QC.
+Note: No phenotypes present.
+--recode to GGP3_D.ped + GGP3_D.map ... done.
+
+End time: Mon Nov 22 21:34:23 2021

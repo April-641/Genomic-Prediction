@@ -1,0 +1,20 @@
+PLINK v1.90b1g 64-bit (10 Jun 2014)
+5 arguments: --out GGP3_Y --recode --vcf GGP3_Y.vcf
+Hostname: fat01
+Working directory: /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/york/york_GGP3
+Start time: Mon Nov 22 22:25:14 2021
+
+Random number seed: 1637591114
+514447 MB RAM detected; reserving 257223 MB for main workspace.
+--vcf: GGP3_Y-temporary.bed + GGP3_Y-temporary.bim + GGP3_Y-temporary.fam
+written.
+39755 variants loaded from .bim file.
+520 people (0 males, 0 females, 520 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to GGP3_Y.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+39755 variants and 520 people pass filters and QC.
+Note: No phenotypes present.
+--recode to GGP3_Y.ped + GGP3_Y.map ... done.
+
+End time: Mon Nov 22 22:25:15 2021

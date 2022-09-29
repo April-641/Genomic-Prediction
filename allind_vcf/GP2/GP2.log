@@ -1,0 +1,23 @@
+PLINK v1.90b1g 64-bit (10 Jun 2014)
+7 arguments: --file /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/duroc/duroc_GP2/GP2_D --make-bed --merge-list merge.txt --out GP2
+Hostname: fat01
+Working directory: /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/GP2
+Start time: Wed Jan 12 10:20:52 2022
+
+Random number seed: 1641954052
+514447 MB RAM detected; reserving 257223 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (39755 variants, 500 people).
+--file: GP2-temporary.bed + GP2-temporary.bim + GP2-temporary.fam written.
+Performing single-pass merge (6500 people, 39755 variants).
+Merged fileset written to GP2-merge.bed + GP2-merge.bim + GP2-merge.fam .
+39755 variants loaded from .bim file.
+6500 people (0 males, 0 females, 6500 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to GP2.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+39755 variants and 6500 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to GP2.bed + GP2.bim + GP2.fam ... done.
+
+End time: Wed Jan 12 10:23:31 2022

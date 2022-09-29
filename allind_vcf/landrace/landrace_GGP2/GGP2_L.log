@@ -1,0 +1,20 @@
+PLINK v1.90b1g 64-bit (10 Jun 2014)
+5 arguments: --out GGP2_L --recode --vcf GGP2_L.vcf
+Hostname: fat01
+Working directory: /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/landrace/landrace_GGP2
+Start time: Mon Nov 22 21:53:04 2021
+
+Random number seed: 1637589184
+514447 MB RAM detected; reserving 257223 MB for main workspace.
+--vcf: GGP2_L-temporary.bed + GGP2_L-temporary.bim + GGP2_L-temporary.fam
+written.
+39755 variants loaded from .bim file.
+110 people (0 males, 0 females, 110 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to GGP2_L.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Calculating allele frequencies... done.
+39755 variants and 110 people pass filters and QC.
+Note: No phenotypes present.
+--recode to GGP2_L.ped + GGP2_L.map ... done.
+
+End time: Mon Nov 22 21:53:04 2021

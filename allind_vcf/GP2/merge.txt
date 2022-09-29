@@ -1,0 +1,2 @@
+/home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/landrace/landrace_GP2/GP2_L.ped /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/landrace/landrace_GP2/GP2_L.map
+/home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/york/york_GP2/GP2_Y.ped /home/zhiyan/Liusiyi/ZXYH/Third/allind_vcf/york/york_GP2/GP2_Y.map
