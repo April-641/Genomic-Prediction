@@ -1,5 +1,5 @@
 # Genomic-Prediction
-This directory contains source data and scripts related to the manuscript "Genomic prediction using commercial crossbred population in pigs".
+This directory contains source data and scripts related to the manuscript "Genomic prediction using commercial crossbred population in pigs —— the insights from DLY ternary-cross system".
 
 Repository contains:
 
@@ -11,8 +11,10 @@ Repository contains:
     
     Yorkshire: york.vcf, GGP1_Y_geno.txt
     
--breeding_program: Scripts for genotypic simulation of the mating processes for each generation in the crossbreeding system of this experiment.
+-breeding_program: Scripts for genotype simulation of the mating processes for each generation in the crossbreeding system of this research.
 
--allind_vcf: The haplotype text file of each population obtained after genotypic simulation was converted to vcf format.
+-allind_vcf: The haplotype text file of each population obtained after genotype simulation was converted to vcf format and the corresponding ped/map file was obtained.
 
--Phenotype: The true breeding value of each individual was calculated based on the extracted QTL, and then summed with the environmental effect to obtain the phenotypic value of each individual.
+-Phenotype: The true breeding value of each individual was calculated based on the simulated QTLs, and then summed with the environmental effect to obtain the phenotypic value of each individual.
+
+-select: which contains the text file of the reference allele of the markers passed quality control filters.
