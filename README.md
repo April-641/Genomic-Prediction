@@ -1,5 +1,5 @@
 # Genomic-Prediction
-This directory contains source data and scripts related to the manuscript "Genomic prediction using commercial crossbred population in pigs —— the insights from DLY ternary-cross system".
+This directory contains source data and scripts related to the manuscript "Genomic prediction using commercial crossbred population in pigs —— the insights from DLY three-way crossbreeding system".
 
 Repository contains:
 
