@@ -1,5 +1,5 @@
 # Genomic-Prediction
-This directory contains source data and scripts related to the manuscript "Genomic prediction using commercial crossbred population in pigs —— the insights from DLY three-way crossbreeding system".
+This directory contains source data and scripts related to the manuscript "Genomic prediction in pigs using data from a commercial crossbred population: insights from the Duroc x (Landrace x Yorkshire) three-way crossbreeding system".
 
 Repository contains:
 
